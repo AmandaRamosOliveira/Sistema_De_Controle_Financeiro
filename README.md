@@ -35,8 +35,6 @@ O Financial Management é um sistema web que permite ao usuário:
 
 ![relatorio](./imagensTelas/telaRelatorio.png)
 
-![relatorio anual](./imagensTelas/telaRelatorioAnual.png)
-
 ![meta](./imagensTelas/telaMeta.png)
 
 ![estudo](./imagensTelas/telaEstudo.png)
